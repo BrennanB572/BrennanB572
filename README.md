@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @BrennanB572 aka Brennan. I'm an aspiring SDE student with my main goal to join ATA (Amazon Technical Academy).
-- 👀 I mainly dedicate my time to push web apps for Amazon that create a more user friendly/interactive experience.
-- 🌱 I’m currently learning Javascript.
+- 👋 Hi, I’m @BrennanB572 aka Brennan.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on web design projects.
 - 📫 Please reach me through email: BrennanB572@gmail.com or on Amazon Chime @qbbrenna. 
 
